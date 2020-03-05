@@ -10,6 +10,12 @@
       <module name="Problems-Initializing_an_array_of_longs_test" target="11" />
       <module name="Problems__10_-The_longest_word_main" target="11" />
       <module name="Problems__10_-The_longest_word_test" target="11" />
+      <module name="Problems__11_-Double_characters_main" target="11" />
+      <module name="Problems__11_-Double_characters_test" target="11" />
+      <module name="Problems__12_-Palindrome_main" target="11" />
+      <module name="Problems__12_-Palindrome_test" target="11" />
+      <module name="Problems__13_-Number_of_occurrences_main" target="11" />
+      <module name="Problems__13_-Number_of_occurrences_test" target="11" />
       <module name="Problems__1_-Distance_main" target="11" />
       <module name="Problems__1_-Distance_test" target="11" />
       <module name="Problems__2_-Difference_between_two_doubles_main" target="11" />
