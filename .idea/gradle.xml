@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -10,6 +11,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems (1)/Distance" />
+            <option value="$PROJECT_DIR$/Problems (2)/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Problems (3)/Area of a circle" />
+            <option value="$PROJECT_DIR$/Problems (4)/Evaluate an expression - 1" />
+            <option value="$PROJECT_DIR$/Problems (5)/Celsius to Fahrenheit" />
+            <option value="$PROJECT_DIR$/Problems (6)/Find X" />
+            <option value="$PROJECT_DIR$/Problems (7)/Evaluate an expression - 2" />
+            <option value="$PROJECT_DIR$/Problems (8)/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of longs" />
             <option value="$PROJECT_DIR$/Sorting Tool/task" />
