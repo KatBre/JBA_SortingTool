@@ -8,6 +8,8 @@
       <module name="Problems-Initializing_an_array_of_integers_test" target="11" />
       <module name="Problems-Initializing_an_array_of_longs_main" target="11" />
       <module name="Problems-Initializing_an_array_of_longs_test" target="11" />
+      <module name="Problems__10_-The_longest_word_main" target="11" />
+      <module name="Problems__10_-The_longest_word_test" target="11" />
       <module name="Problems__1_-Distance_main" target="11" />
       <module name="Problems__1_-Distance_test" target="11" />
       <module name="Problems__2_-Difference_between_two_doubles_main" target="11" />
@@ -24,6 +26,8 @@
       <module name="Problems__7_-Evaluate_an_expression_-_2_test" target="11" />
       <module name="Problems__8_-Liquid_pressure_main" target="11" />
       <module name="Problems__8_-Liquid_pressure_test" target="11" />
+      <module name="Problems__9_-The_lucky_ticket_main" target="11" />
+      <module name="Problems__9_-The_lucky_ticket_test" target="11" />
       <module name="Sorting_Tool-task_main" target="11" />
       <module name="Sorting_Tool-task_test" target="11" />
       <module name="util_main" target="11" />

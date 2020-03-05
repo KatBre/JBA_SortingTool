@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems (1)/Distance" />
+            <option value="$PROJECT_DIR$/Problems (10)/The longest word" />
             <option value="$PROJECT_DIR$/Problems (2)/Difference between two doubles" />
             <option value="$PROJECT_DIR$/Problems (3)/Area of a circle" />
             <option value="$PROJECT_DIR$/Problems (4)/Evaluate an expression - 1" />
@@ -19,6 +20,7 @@
             <option value="$PROJECT_DIR$/Problems (6)/Find X" />
             <option value="$PROJECT_DIR$/Problems (7)/Evaluate an expression - 2" />
             <option value="$PROJECT_DIR$/Problems (8)/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Problems (9)/The lucky ticket" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of longs" />
