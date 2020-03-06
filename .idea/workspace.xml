@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e381e1ab-e461-471e-ae38-21bf5e32f367" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (14)/Piece of alphabet/Problems__14_-Piece_of_alphabet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (14)/Piece of alphabet/Problems__14_-Piece_of_alphabet_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (14)/Piece of alphabet/Problems__14_-Piece_of_alphabet_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (15)/Find the first occurrence of the word  the/Problems__15_-Find_the_first_occurrence_of_the_word__the.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (15)/Find the first occurrence of the word  the/Problems__15_-Find_the_first_occurrence_of_the_word__the_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (15)/Find the first occurrence of the word  the/Problems__15_-Find_the_first_occurrence_of_the_word__the_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (16)/Convert a date/Problems__16_-Convert_a_date.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (16)/Convert a date/Problems__16_-Convert_a_date_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (16)/Convert a date/Problems__16_-Convert_a_date_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (17)/Compression algorithm/Problems__17_-Compression_algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (17)/Compression algorithm/Problems__17_-Compression_algorithm_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (17)/Compression algorithm/Problems__17_-Compression_algorithm_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (18)/Move the first N characters/Problems__18_-Move_the_first_N_characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (18)/Move the first N characters/Problems__18_-Move_the_first_N_characters_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (18)/Move the first N characters/Problems__18_-Move_the_first_N_characters_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (19)/Create a euphonious word/Problems__19_-Create_a_euphonious_word.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (19)/Create a euphonious word/Problems__19_-Create_a_euphonious_word_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (19)/Create a euphonious word/Problems__19_-Create_a_euphonious_word_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (20)/Lucky number/Problems__20_-Lucky_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (20)/Lucky number/Problems__20_-Lucky_number_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (20)/Lucky number/Problems__20_-Lucky_number_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (21)/The percentage of G and C characters/Problems__21_-The_percentage_of_G_and_C_characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (21)/The percentage of G and C characters/Problems__21_-The_percentage_of_G_and_C_characters_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (21)/The percentage of G and C characters/Problems__21_-The_percentage_of_G_and_C_characters_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (22)/Cutting out the middle of a string/Problems__22_-Cutting_out_the_middle_of_a_string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (22)/Cutting out the middle of a string/Problems__22_-Cutting_out_the_middle_of_a_string_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (22)/Cutting out the middle of a string/Problems__22_-Cutting_out_the_middle_of_a_string_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (13)/Number of occurrences/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (14)/Piece of alphabet/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (14)/Piece of alphabet/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (14)/Piece of alphabet/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (15)/Find the first occurrence of the word  the/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (15)/Find the first occurrence of the word  the/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (15)/Find the first occurrence of the word  the/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (16)/Convert a date/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (16)/Convert a date/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (16)/Convert a date/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (17)/Compression algorithm/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (17)/Compression algorithm/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (17)/Compression algorithm/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (18)/Move the first N characters/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (18)/Move the first N characters/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (18)/Move the first N characters/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (19)/Create a euphonious word/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (19)/Create a euphonious word/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (19)/Create a euphonious word/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (20)/Lucky number/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (20)/Lucky number/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (20)/Lucky number/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (20)/Lucky number/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (21)/The percentage of G and C characters/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (21)/The percentage of G and C characters/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (21)/The percentage of G and C characters/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (22)/Cutting out the middle of a string/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (22)/Cutting out the middle of a string/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (22)/Cutting out the middle of a string/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (23)/Generating passwords/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (23)/Generating passwords/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting Tool/Numbers only/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting Tool/Numbers only/task-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Kasia\Sorting Tool\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YeyxbsFJ0dmNiwMrqPvWYSZkJb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems__20_-Lucky_number_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e381e1ab-e461-471e-ae38-21bf5e32f367" name="Default Changelist" comment="" />
+      <created>1583317601335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583317601335</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1583323934885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583323934885</updated>
+    </task>
+    <task id="LOCAL-00002" summary="array exercises commit">
+      <created>1583324724505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583324724505</updated>
+    </task>
+    <task id="LOCAL-00003" summary="last array exercises commit">
+      <created>1583325660650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583325660650</updated>
+    </task>
+    <task id="LOCAL-00004" summary="floating-point types exercises commit">
+      <created>1583415925908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583415925908</updated>
+    </task>
+    <task id="LOCAL-00005" summary="strings exercises commit">
+      <created>1583420122300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583420122300</updated>
+    </task>
+    <task id="LOCAL-00006" summary="next strings exercises commit">
+      <created>1583422070296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583422070296</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="array exercises commit" />
+    <MESSAGE value="last array exercises commit" />
+    <MESSAGE value="floating-point types exercises commit" />
+    <MESSAGE value="strings exercises commit" />
+    <MESSAGE value="next strings exercises commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="next strings exercises commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="115" key="CommitChangelistDialog2" timestamp="1583508468676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583508468676" />
+    <state x="1144" y="274" key="FileChooserDialogImpl" timestamp="1583323801139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1144" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583323801139" />
+    <state width="1051" height="272" key="GridCell.Tab.0.bottom" timestamp="1583505186448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1051" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583505186448" />
+    <state width="1051" height="272" key="GridCell.Tab.0.center" timestamp="1583505186448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1051" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583505186448" />
+    <state width="1051" height="272" key="GridCell.Tab.0.left" timestamp="1583505186447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1051" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583505186447" />
+    <state width="1051" height="272" key="GridCell.Tab.0.right" timestamp="1583505186448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1051" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583505186448" />
+    <state x="956" y="252" key="Vcs.Push.Dialog.v2" timestamp="1583422079828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="956" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583422079828" />
+  </component>
+</project>
